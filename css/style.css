@@ -1602,7 +1602,7 @@ textarea {
   }
   .interview__image,
   .image {
-    width: 100px;
+    width: 100%;
   }
   .swiper-button-prev {
     top: 93.9%;
