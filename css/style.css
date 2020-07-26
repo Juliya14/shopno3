@@ -1492,9 +1492,6 @@ textarea {
   .container {
     max-width: 97%;
   }
-  body {
-    overflow-x: hidden;
-  }
   .box,
   .box2,
   .box3,
@@ -1603,12 +1600,8 @@ textarea {
   .swiper-pagination-bullets {
     margin-left: 100px;
   }
-  .description__photo {
-    width: 250px;
-  }
   .interview__image,
   .image {
-    width: 200px;
   }
   .swiper-button-prev {
     top: 93.9%;
@@ -1623,5 +1616,8 @@ textarea {
   }
   .stars {
     margin-bottom: 120px;
+  }
+  body {
+    overflow-x: hidden;
   }
 }
