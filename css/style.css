@@ -1595,13 +1595,14 @@ textarea {
   }
   .swiper {
     margin-top: 50px;
-    margin-left: 20%;
+    margin-left: 17%;
   }
   .swiper-pagination-bullets {
     margin-left: 100px;
   }
   .interview__image,
   .image {
+    width: 100px;
   }
   .swiper-button-prev {
     top: 93.9%;
